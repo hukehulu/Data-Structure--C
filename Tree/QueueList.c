@@ -68,6 +68,7 @@ int main(){
     enQueue(Q, 1);
     enQueue(Q, 2);
     enQueue(Q, 3);
+    enQueue(Q, 4);
     Element x;
     getFront(Q, &x);
     printf("%d\n", x);
